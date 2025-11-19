@@ -1,4 +1,4 @@
-#📚 Focus Learn
+📚 Focus Learn
 ---
 
 
